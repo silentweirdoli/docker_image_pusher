@@ -1,2 +1,5 @@
 nginx
 #支持私库
+adolfintel/speedtest
+amtoaer/bili-sync:1.1.9
+emby/embyserver:4.9.0.38
