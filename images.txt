@@ -3,3 +3,4 @@ nginx
 adolfintel/speedtest
 amtoaer/bili-sync:1.1.9
 emby/embyserver:4.9.0.38
+orekiiiiiiiiiiiii/auto-lady:1.4.5
