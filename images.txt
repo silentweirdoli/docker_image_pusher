@@ -5,3 +5,4 @@ amtoaer/bili-sync:1.1.9
 emby/embyserver:4.9.0.38
 orekiiiiiiiiiiiii/auto-lady:1.4.5
 metatube/metatube-server:1.2.9
+talebook/talebook:latest
