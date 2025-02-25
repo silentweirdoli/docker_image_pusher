@@ -1,3 +1,4 @@
 
 talebook/talebook:latest
 chigusa/bililive-go:latest
+koishijs/koishi:latest
