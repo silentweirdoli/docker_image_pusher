@@ -2,3 +2,5 @@
 talebook/talebook:latest
 chigusa/bililive-go:latest
 koishijs/koishi:latest
+rockchin/langbot:latest
+soulter/astrbot:latest
