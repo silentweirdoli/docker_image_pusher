@@ -5,3 +5,4 @@ koishijs/koishi:latest
 rockchin/langbot:v3.4.9.4
 soulter/astrbot:latest
 mzz2017/v2raya:latest
+threatbook/hfish-server:3.3.5
